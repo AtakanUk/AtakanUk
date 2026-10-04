@@ -1,6 +1,6 @@
 # Hi, I'm Atakan 👋
 
-Software engineer based in **Düsseldorf, Germany**, with 5+ years of professional experience building backend services, internal tools and data integrations — most recently in security automation, and before that as a software engineer at Doğuş Teknoloji. I like building products people actually use: clean APIs, correct data and interfaces that stay out of the way.
+Software engineer based in **Düsseldorf, Germany**, with 5+ years of professional experience building backend services, internal tools and data integrations — most recently focused on security automation. I like building products people actually use: clean APIs, reliable data and interfaces that stay out of the way.
 
 **Main stack:** C# / .NET · Python · Java · JavaScript / Node.js · React / Vue.js · SQL Server · SQLite · REST APIs · Elasticsearch · Docker · Azure DevOps · Linux
 
