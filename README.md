@@ -8,7 +8,7 @@ Software engineer based in **Düsseldorf, Germany**, with 5+ years of profession
 
 | Project | What it is | Tech |
 | --- | --- | --- |
-| [**Salon Tracker (.NET)**](https://github.com/AtakanUk/salon-tracker-dotnet) | ASP.NET Core port of Salon Tracker on the same API contract: the React app runs on it unchanged and backups move between both versions; 73 xUnit tests against a real PostgreSQL via Testcontainers | C# · .NET 10 · ASP.NET Core · EF Core · PostgreSQL · Docker |
+| [**Salon Tracker (.NET)**](https://github.com/AtakanUk/salon-tracker-dotnet) | ASP.NET Core port of Salon Tracker on the same API contract: the React app runs on it unchanged and backups move between both versions; 73 xUnit tests against a real PostgreSQL via Testcontainers in CI | C# · .NET 10 · ASP.NET Core · EF Core · PostgreSQL · Docker |
 | [**Warehouse Management System**](https://github.com/AtakanUk/warehouse-management-system) | Receiving → stock → picking → shipping, with a stock ledger, optimistic concurrency and 57 xUnit tests in CI | C# · ASP.NET Web Forms · EF6 · SQL Server |
 | [**Private Server**](https://github.com/AtakanUk/private-server) | Self-hosted media sharing for small groups — albums, comments, live pinboards, video transcoding pipeline | React · Node.js · SQLite · Socket.IO · ffmpeg · Docker |
 | [**Vokabel Taboo**](https://github.com/AtakanUk/vokabel-taboo) | Real-time multiplayer vocabulary game used in my German course | Node.js · Socket.IO · Claude API · Docker |
