@@ -1,4 +1,4 @@
-# Hi, I'm Atakan 👋
+# I'm Atakan
 
 Software engineer based in **Düsseldorf, Germany**, with 5+ years of professional experience building backend services, internal tools and data integrations — most recently focused on security automation. I like building products people actually use: clean APIs, reliable data and interfaces that stay out of the way.
 
