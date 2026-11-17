@@ -14,8 +14,3 @@ Software engineer based in **Düsseldorf, Germany**, with 5+ years of profession
 | [**Vokabel Taboo**](https://github.com/AtakanUk/vokabel-taboo) | Real-time multiplayer vocabulary game used in my German course | Node.js · Socket.IO · Claude API · Docker |
 | [**music-sync**](https://github.com/AtakanUk/music-sync) | Two-way Spotify ↔ YouTube Music playlist sync with fuzzy matching that never deletes or duplicates | Python · rapidfuzz · pytest |
 | [**Image Enhancer**](https://github.com/AtakanUk/image-enhancer) | Desktop app that upscales photos and videos with Real-ESRGAN / GFPGAN | Python · PyTorch · PySide6 · ffmpeg |
-
-## Currently
-
-- Looking for a **product-focused software engineering role** in Germany or the Netherlands
-- Learning German 🇩🇪
